@@ -2,6 +2,8 @@ import { Header } from './components/Header';
 import { Player } from './components/Player';
 import { Sidebar } from './components/Sidebar';
 
+// import './config/reactotron.ts ';
+
 import { Wrapper, Container, Content } from './styles/components';
 
 import { AppRoutes } from './routes';
